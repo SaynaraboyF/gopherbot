@@ -11,7 +11,6 @@ geojson==2.5.0
 idna==2.10
 multidict==4.7.6
 pip==20.1.1
-pyowm==3.0.0
 PySocks==1.7.1
 requests==2.24.0
 setuptools==47.1.0
