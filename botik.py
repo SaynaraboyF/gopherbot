@@ -899,3 +899,5 @@ async def d_fam(ctx, member: discord.Member):
 	await ctx.send(embed=emb)                                     
 
 token = os.environ.get('BOT_TOKEN')
+
+bot.run(str(token))
