@@ -898,4 +898,4 @@ async def d_fam(ctx, member: discord.Member):
 
 	await ctx.send(embed=emb)                                     
 
-client.run('NzQ0Mjc0OTM5NDk3OTM4OTg1.Xzg2DQ.VPxy45Om7Nw0GRTAYhPcWpwzpIA')
+client.run('NzQ0Mjc0OTM5NDk3OTM4OTg1.Xzg2DQ.gg9g1l6Kx60P4js40RX5xmwV-ug')
